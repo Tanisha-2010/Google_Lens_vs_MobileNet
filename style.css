@@ -1,0 +1,18 @@
+.test_img_and_result {
+    background-color: #fe6694;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#results {
+    background-color: white;
+    border-radius: 20px;
+    height: 25px;
+    width: 20%;
+    padding-top: 5px;
+}
+
+body {
+    background-color: #fabacc;
+    height: 100%;
+}
